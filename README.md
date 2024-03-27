@@ -1,4 +1,13 @@
-## Foundry
+## Web3 Smart Bank
+
+A decentralized bank where you can save and withdraw your funds.
+I will be adding more functions later.
+
+Thank you
+
+Using Foundry Framework.....
+
+# Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
